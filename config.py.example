@@ -1,0 +1,29 @@
+enabled_exchange = ['bitfinex', 'poloniex', 'kraken']
+api_info = {  
+   'poloniex':{  
+      'key':'test',
+      'secret':'test'
+   },
+   'bitfinex':{
+      'key':'test',
+      'secret':'test'  
+   },
+   'kraken':{
+      'key':'test',
+      'secret':'test'
+   }
+}
+fees = {  
+   'poloniex':{  
+      'buy':0.0025,
+      'sell':0.0015
+   },
+   'bitfinex':{  
+      'buy':0.002,
+      'sell':0.001
+   },
+   'kraken':{
+      'buy':0.0026,
+      'sell':0.0016
+   }
+}

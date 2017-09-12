@@ -1,0 +1,5 @@
+poloniex==0.0.8
+pymongo==3.5.1
+krakenex==0.1.4
+requests==2.14.2
+websocket_client==0.44.0
