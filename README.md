@@ -1,3 +1,4 @@
 # whalehunter
 Cryptocurrency arbitrage bot
-# whalehunter
+
+Work in progress...
