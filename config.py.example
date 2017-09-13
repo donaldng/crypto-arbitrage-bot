@@ -27,3 +27,4 @@ fees = {
       'sell':0.0016
    }
 }
+expected_margin = 1 # in percentage (%)
